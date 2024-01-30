@@ -1,0 +1,7 @@
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\bin\Debug\asamblor ARC.exe.config
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\bin\Debug\asamblor ARC.exe
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\bin\Debug\asamblor ARC.pdb
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\obj\Debug\asamblor ARC.csprojAssemblyReference.cache
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\obj\Debug\asamblor ARC.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\obj\Debug\asamblor ARC.exe
+C:\Users\x\Documents\examenfp1\asamblor ARC\asamblor ARC\obj\Debug\asamblor ARC.pdb
